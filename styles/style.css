@@ -1,0 +1,104 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2, h4{
+    text-transform: uppercase;
+}
+
+.font0 {
+    font: 13pt sans-serif;
+}
+
+.font1 {
+    font: 8pt sans-serif;
+}
+
+.font2 {
+    font: 13pt sans-serif;
+}
+
+.font3 {
+    font: 14pt sans-serif;
+}
+
+.font4 {
+    font: 9pt sans-serif;
+}
+
+.font5 {
+    font: 10pt sans-serif;
+}
+
+.font6, h5 {
+    font: 17pt sans-serif;
+}
+
+.font7 {
+    font: 8pt sans-serif;
+}
+
+.font8 {
+    font: 10pt sans-serif;
+}
+
+.font9 {
+    font: 13pt sans-serif;
+}
+
+.font10 {
+    font: 27pt sans-serif;
+}
+
+.font11 {
+    font: 28pt sans-serif;
+}
+
+.font12 {
+    font: 29pt sans-serif;
+}
+
+ul, ol, dl {
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav a {
+    text-decoration: none;
+}
+
+p {
+    font: 14pt sans-serif;
+    text-indent: 25px;
+}
+pre{
+    text-align: left;
+}
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.inventor {
+    text-align: center;
+    text-indent: 0;
+}
+
+img {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    
+}
+
+.container {
+    max-width: 480px;
+    padding: 15px;
+    margin: 0 auto;
+}
